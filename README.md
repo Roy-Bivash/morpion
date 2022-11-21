@@ -1,4 +1,4 @@
 # morpion
 
 
-Un simple jeux de morpion créer
+Un simple jeux de morpion
