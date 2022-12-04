@@ -66,7 +66,7 @@ function verifWin(){
             // alert("Player 1 won !!!");
         }
         if(repO[0]){
-            colorisationCases(repX[1]);
+            colorisationCases(repO[1]);
             // alert("Player 2 won !!!");
         }
     }
